@@ -1,6 +1,6 @@
 body {
   background-color: aqua;
-  font-family: "Montserrat", serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .weather-app {
@@ -14,7 +14,7 @@ body {
 
 header {
   border-bottom: 1px solid aqua;
-  padding: 0 0 40px 0;
+  padding: 0 0 30px 0;
 }
 
 .search-form-input {
@@ -42,7 +42,7 @@ header {
 }
 
 main {
-  padding: 30p0 0;
+  padding: 30px 0;
 }
 
 .weather-app-city {
@@ -75,7 +75,7 @@ footer {
 }
 
 .weather-app-temperature {
-  font-size: 200px;
+  font-size: 88px;
   font-weight: bold;
   line-height: 88px;
 }
@@ -87,7 +87,7 @@ footer {
 
 .weather-app-unit {
   font-size: 28px;
-  margin-top: 6px;
+  margin-top: 16px;
 }
 
 a {
