@@ -93,3 +93,34 @@ footer {
 a {
   color: sandybrown;
 }
+
+.weather-forecast-date {
+  color: rgba(39, 3, 66, 0.4);
+  font-size: 16px;
+  margin-bottom: 10px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.weather-forecast-icon {
+  font-size: 38px;
+  text-align: center;
+}
+
+.weather-forecast-temperatures {
+  color: blueviolet;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.weather-forecast-temperature {
+  padding: 0 14px;
+}
+
+.weather-forecast {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
